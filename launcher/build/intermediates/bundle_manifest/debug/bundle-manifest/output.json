@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.chrisPaul97.DevelopmentKids",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.01",
+        "outputFile": "launcher-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.chrisPaul97.DevelopmentKids",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}
