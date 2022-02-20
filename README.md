@@ -2,7 +2,7 @@
 # Tecnología Superior en Desarrollo de Software
 Estudiante: Christian Paul Llumiquinga Ayala.
 
-•	@chrispaul20191610
+•	https://github.com/chrispaul20191610
 
 La aplicación móvil se puede encontrar en el siguiente enlace:
 https://play.google.com/store/apps/details?id=com.chrisPaul97.DevelopmentKids
