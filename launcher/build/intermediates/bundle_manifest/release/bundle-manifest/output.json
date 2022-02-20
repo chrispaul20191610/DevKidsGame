@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.chrisPaul97.DevelopmentKids",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "BUNDLE_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 2,
+        "versionName": "1.02",
+        "outputFile": "launcher-release.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.chrisPaul97.DevelopmentKids",
+        "split": "",
+        "minSdkVersion": "19"
+      }
+    }
+  ]
+}

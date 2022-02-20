@@ -1,0 +1,2 @@
+com/chrisPaul97/DevelopmentKids/BuildConfig.java
+ com.chrisPaul97.DevelopmentKids.BuildConfig
